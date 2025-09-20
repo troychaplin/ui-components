@@ -20,7 +20,6 @@
     "@eslint/js": "^9.35.0",
     "@storybook/addon-a11y": "^9.1.7",
     "@storybook/addon-docs": "^9.1.7",
-    "@storybook/addon-onboarding": "^9.1.7",
     "@storybook/addon-vitest": "^9.1.7",
     "@storybook/react-vite": "^9.1.7",
     "@types/react": "^19.1.13",
